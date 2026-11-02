@@ -10,7 +10,7 @@ Task: learn the hidden rule  price = 2 * size  from examples.
 data = [(1, 2), (2, 4), (3, 6), (4, 8), (5, 10)]  # (x, true_y)
 
 # 2. PARAMETERS (weights): the adjustable knobs. Start with a bad guess.
-w = 0.5
+w = 1.5
 
 
 # 3. MODEL: a function that uses the parameters to turn input into output.
